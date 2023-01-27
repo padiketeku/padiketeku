@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Richard @padiketeku
+- 👋 Hi, I’m Rich @padiketeku
 - 👀 I’m interested in earth observation and GIS data for environment and agricultural management...
 - 🌱 I’m currently learning to develop machine learning algorithms for geospatial science
 - 💞️ I’m looking to collaborate on geospatial analytics using python
